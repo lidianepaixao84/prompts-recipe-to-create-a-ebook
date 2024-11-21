@@ -9,3 +9,5 @@ Prompt: crie um e book sobre educação financeira
 
 ✨ Características
 Conteúdo e imagens gerados no Gamma
+
+O ebook pode ser consultado em: https://educacao-financeira-um-g-e7xf8ti.gamma.site/
